@@ -1,7 +1,7 @@
 # Data Engineering Weather Data Analysis Project
 
 ## **Overview**  
-  This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.  
+  This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured weather data based on the cities in India  
 
 ## **Project Goals**  
   Data Ingestion — Build a mechanism to ingest data from different sources  
