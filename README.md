@@ -20,6 +20,7 @@
 
 
 ## **API used**    
-
+Rapid API Weather API to pull Weather data for last five days
 
 ## **Architecture Diagram**    
+![WeatherProj_Architecture](https://github.com/user-attachments/assets/ddeff797-f8ff-488e-b4ba-447fd55f1619)
