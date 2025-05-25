@@ -15,12 +15,12 @@
   Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.  
   AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.  
   AWS Glue: A serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development.  
-  AWS Lambda: Lambda is a computing service that allows programmers to run code without creating or managing servers.  
-  Snowflake:    
+  AWS Lambda: Lambda is a computing service that allows programmers to run code without creating or managing servers.
+  Snowflake: Transformed data from Amazon S3 is automatically loaded into Snowflake using Snowpipe, which provides real-time or near-real-time ingestion. Snowflake efficiently stores the weather data for querying              and analysis.
 
 
 ## **API used**    
-Rapid API Weather API to pull Weather data for last five days
+Rapid API's Weather API is the external data source providing historical weather data (e.g., temperature, humidity, wind speed, etc.).
 
 ## **Architecture Diagram**    
 ![WeatherProj_Architecture](https://github.com/user-attachments/assets/ddeff797-f8ff-488e-b4ba-447fd55f1619)
